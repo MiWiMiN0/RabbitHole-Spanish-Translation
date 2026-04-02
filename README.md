@@ -1,5 +1,4 @@
 # Rabbit Hole Spanish Translation
-![Screenshot](screenshot1.png)
 
 English
 
