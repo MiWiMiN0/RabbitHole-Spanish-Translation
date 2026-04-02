@@ -15,3 +15,9 @@ Este es un proyecto de traduccion no oficial al español de Rabbit Hole.
 El objetivo es traducir dialogos, menus y textos de la interfaz.
 
 Se iran subiendo avances para que se puedan comparar los textos originales con los traducidos.
+
+--
+
+## Download / Descargar
+
+https://github.com/MiWiMiN0/RabbitHole-Spanish-Translation/releases/latest
